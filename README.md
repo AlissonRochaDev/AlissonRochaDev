@@ -4,7 +4,7 @@
 ### Desenvolvedor Web | Professor | Técnico em Informática.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidluiz91&layout=compact&langs_count=7&theme=cobalt"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonRochaDev&layout=compact&langs_count=7&theme=cobalt"/>
 
 &nbsp;
 &nbsp;
