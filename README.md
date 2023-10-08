@@ -1,6 +1,4 @@
 ## Alisson Fernando Rocha Trindade.
-### Moro atualmente na cidade de Londrina, Paraná.
-### Formado em Análise e Desenvolvimento de Sistemas em 2016.
 ### Desenvolvedor Web | Professor | Técnico em Informática.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
