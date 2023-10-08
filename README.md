@@ -1,5 +1,5 @@
 ## Alisson Fernando Rocha Trindade.
-### Londrina, Paraná.
+### Moro atualmente na cidade de Londrina, Paraná.
 ### Formado em Análise e Desenvolvimento de Sistemas em 2016.
 ### Desenvolvedor Web | Professor | Técnico em Informática.
 
