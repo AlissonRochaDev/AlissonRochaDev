@@ -18,15 +18,7 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
    </div>
      
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
-
- &nbsp;
- &nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=AlissonRochaDev&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-AlissonRochaDev.vercel.app/api/top-langs/?username=AlissonRochaDev&show_icons=true&theme=radical&layout=compact" />
- </div>
+![Snake animation](https://github.com/AlissonRochaDev/AlissonRochaDev/blob/output/github-contribution-grid-snake.svg)
  
  &nbsp;
  &nbsp;
