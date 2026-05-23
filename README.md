@@ -6,7 +6,6 @@
 </div>
 
 <br>
-<br>
 
 ## Habilidades e Conhecimentos.
 #### Linguagens (Front-End & Back-End):
