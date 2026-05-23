@@ -1,15 +1,11 @@
 ## Alisson Fernando Rocha Trindade.
 ### Desenvolvedor Web | Professor | Técnico em Informática.
-
-
+<div align="center">
   <img height="195em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlissonRochaDev&show_icons=true&theme=radical"/>
-
   <img height="195em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlissonRochaDev&layout=compact&langs_count=7&theme=cobalt"/>
-
-
+</div>
 <br>
 <br>
-
 ## Habilidades e Conhecimentos.
 #### Linguagens (Front-End & Back-End):
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
