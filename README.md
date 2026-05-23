@@ -1,11 +1,14 @@
 ## Alisson Fernando Rocha Trindade.
 ### Desenvolvedor Web | Professor | Técnico em Informática.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonRochaDev&layout=compact&langs_count=7&theme=cobalt"/>
+<div align="center">
+  <a href="https://github.com/AlissonRochaDev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlissonRochaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonRochaDev&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-&nbsp;
-&nbsp;
+<br>
+<br>
 
 ## Habilidades e Conhecimentos.
 #### Linguagens (Front-End & Back-End):
