@@ -66,7 +66,7 @@
 
 ## Contatos e Redes Sociais:
 <div> 
- <a href="https://www.linkedin.com/in/alisson-fernando-rocha-trindade-847a6111b/" target="_blank">
+ <a href="https://www.linkedin.com/in/a-r-tecnologia" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank">
  </a>
   <a href="https://www.youtube.com/@AlissonRochaTecnologia/videos" target="_blank">
