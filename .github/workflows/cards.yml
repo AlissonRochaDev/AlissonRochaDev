@@ -37,5 +37,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git diff --cached --quiet || git commit -m "Atualizar cartões do perfil"
-          git push
+          if git diff --cached --quiet; then
+            echo "Cartões sem alterações."
+            exit 0
+          fi
+          git commit -m "Atualizar cartões do perfil"
+          git pull --rebase origin "$GITHUB_REF_NAME"
+          git push origin "HEAD:$GITHUB_REF_NAME"
