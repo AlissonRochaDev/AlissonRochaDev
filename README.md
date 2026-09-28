@@ -1,8 +1,8 @@
 ## Alisson Fernando Rocha Trindade.
 ### Desenvolvedor Web | Professor | Técnico em Informática.
 <div align="center">
-  <img width="400em" height="195em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlissonRochaDev&show_icons=true&theme=radical"/>
-  <img width="320em" height="195em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlissonRochaDev&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180" src="./profile/stats.svg" alt="Estatísticas do GitHub">
+  <img height="180" src="./profile/top-langs.svg" alt="Linguagens mais usadas">
 </div>
 
 <br>
