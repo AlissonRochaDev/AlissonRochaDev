@@ -18,7 +18,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=AlissonRochaDev&show_icons=true&theme=dark
+          options: username=AlissonRochaDev&show_icons=true&theme=dark&include_all_commits=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
