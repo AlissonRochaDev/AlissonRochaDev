@@ -119,9 +119,21 @@ e experimentação com modelos de linguagem.
   <a href="https://github.com/AlissonRochaDev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:alisson.f.rocha@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+ <a href="https://www.linkedin.com/in/a-r-tecnologia" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank">
+ </a>
+  <a href="https://www.youtube.com/@AlissonRochaTecnologia/videos" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"  target="_blank">
+ </a> 
+ <a href="https://www.instagram.com/a_r_tecnologia" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+ </a>
+ <a href="https://www.facebook.com/profalissonrocha" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
+ </a>
+ <a href="https://www.behance.net/alissonfroa113" target="_blank">
+  <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank">
+ </a> 
 </p>
 
 ---
