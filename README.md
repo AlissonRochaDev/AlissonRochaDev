@@ -1,12 +1,19 @@
 # Olá! Eu sou Alisson Rocha 👋
+### Desenvolvedor Web | Professor | Técnico em Informática.
+<p align="center">
+  Desenvolvendo soluções, compartilhando conhecimento e transformando ideias em tecnologia.
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=F57921&center=true&vCenter=true&width=650&lines=Professor+de+Tecnologia;Desenvolvedor+Web+Full+Stack;Analista+de+Sistemas;Apaixonado+por+Tecnologia+e+Inovação" alt="Apresentação animada" />
 </p>
 
-<p align="center">
-  Desenvolvendo soluções, compartilhando conhecimento e transformando ideias em tecnologia.
-</p>
+<div align="center">
+  <img height="180" src="./profile/stats.svg" alt="Estatísticas do GitHub">
+  <img height="180" src="./profile/top-langs.svg" alt="Linguagens mais usadas">
+</div>
+
+<br>
 
 ---
 
@@ -68,13 +75,6 @@ Acompanho e utilizo ferramentas de Inteligência Artificial como apoio ao desenv
 
 - **Análise e Desenvolvimento de Sistemas** — Universidade Norte do Paraná (UNOPAR). Concluído.
 - **Pós-graduação em Engenharia de Software** — Concluída.
-
-## 📊 GitHub Contributions
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlissonRochaDev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonRochaDev&layout=compact&theme=github_dark&hide_border=true" height="165" />
-</p>
 
 ## 🐍 Minha jornada no GitHub
 
