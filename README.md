@@ -19,7 +19,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou profissional de Tecnologia da Informação, professor de programação e desenvolvedor Web, com experiência em desenvolvimento de sistemas, banco de dados, infraestrutura e suporte técnico.
+Sou profissional de Tecnologia da Informação, professor e desenvolvedor Web, com experiência em desenvolvimento de sistemas, banco de dados, infraestrutura e suporte técnico.
 
 Acredito que a tecnologia vai muito além de escrever código: envolve compreender problemas, desenvolver soluções e compartilhar conhecimento.
 
@@ -89,27 +89,26 @@ Atualmente, meus principais interesses estão em:
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)&nbsp;
 
 ## 🤖 Inteligência Artificial
-
-Acompanho e utilizo ferramentas de Inteligência Artificial como apoio ao desenvolvimento, aprendizagem, produtividade e experimentação com modelos de linguagem.
+Acompanho e utilizo ferramentas de Inteligência Artificial
+como apoio ao desenvolvimento, aprendizagem, produtividade
+e experimentação com modelos de linguagem.
 
 <p>
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
   <img src="https://img.shields.io/badge/LM_Studio-000000?style=for-the-badge&logo=lmstudio&logoColor=white" />
 </p>
 
 ## 🎓 Formação Acadêmica
-
 - **Análise e Desenvolvimento de Sistemas** — Universidade Norte do Paraná (UNOPAR). Concluído.
-- **Pós-graduação em Engenharia de Software** — Concluída.
+- **Pós-graduação em Engenharia de Software** — Faculdade Anhanguera. Concluída.
 
 ## 🐍 Minha jornada no GitHub
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/AlissonRochaDev/AlissonRochaDev/output/github-snake-dark.svg" alt="Animação do gráfico de contribuições do GitHub" />
 </p>
 
 ## 📫 Entre em contato
-
 <p>
   <a href="https://wa.me/5543988111908">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
