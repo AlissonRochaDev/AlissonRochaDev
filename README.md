@@ -1,6 +1,6 @@
 # Olá! Eu sou Alisson Rocha 👋
 ### Desenvolvedor Web | Professor | Técnico em Informática.
-<p align="center">
+<p align="left">
   Desenvolvendo soluções, compartilhando conhecimento e transformando ideias em tecnologia.
 </p>
 
