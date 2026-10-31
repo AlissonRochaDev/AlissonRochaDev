@@ -7,6 +7,26 @@
 
 <br>
 
+👨‍💻 Sobre mim
+
+Sou profissional de Tecnologia da Informação, professor de programação e desenvolvedor Web, com experiência em desenvolvimento de sistemas, banco de dados, infraestrutura e suporte técnico.
+
+Acredito que a tecnologia vai muito além de escrever código: envolve compreender problemas, desenvolver soluções e compartilhar conhecimento.
+
+Atualmente, meus principais interesses estão em:
+
+Desenvolvimento Web Full Stack.
+
+Arquitetura e desenvolvimento de sistemas.
+
+Banco de Dados e Engenharia de Software.
+
+Inteligência Artificial e novas tecnologias.
+
+Educação tecnológica e formação de desenvolvedores.
+
+<br>
+
 ## Habilidades e Conhecimentos.
 #### Linguagens (Front-End & Back-End):
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
